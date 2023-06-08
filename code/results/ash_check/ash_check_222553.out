@@ -1,0 +1,1029 @@
+make: Nothing to be done for `all'.
+ASH: 4 threads, 256 models
+Epochs: 1 || Local Duration: 788145 microseconds 
+
+Epochs: 1 || Local Duration: 793061 microseconds 
+
+Epochs: 1 || Local Duration: 810885 microseconds 
+
+Epochs: 1 || Local Duration: 1350911 microseconds 
+
+Epochs: 1 || Local Duration: 734141 microseconds 
+
+Epochs: 1 || Local Duration: 729857 microseconds 
+
+Epochs: 1 || Local Duration: 749424 microseconds 
+
+Epochs: 1 || Local Duration: 760465 microseconds 
+
+Epochs: 1 || Local Duration: 771490 microseconds 
+
+Epochs: 1 || Local Duration: 792691 microseconds 
+
+Epochs: 1 || Local Duration: 1289321 microseconds 
+
+Epochs: 1 || Local Duration: 731376 microseconds 
+
+Epochs: 1 || Local Duration: 735858 microseconds 
+
+Epochs: 1 || Local Duration: 759088 microseconds 
+
+Epochs: 1 || Local Duration: 760889 microseconds 
+
+Epochs: 1 || Local Duration: 776930 microseconds 
+
+Epochs: 1 || Local Duration: 793375 microseconds 
+
+Epochs: 1 || Local Duration: 1324571 microseconds 
+
+Epochs: 1 || Local Duration: 718780 microseconds 
+
+Epochs: 1 || Local Duration: 749786 microseconds 
+
+Epochs: 1 || Local Duration: 764493 microseconds 
+
+Epochs: 1 || Local Duration: 761254 microseconds 
+
+Epochs: 1 || Local Duration: 760394 microseconds 
+
+Epochs: 1 || Local Duration: 1356273 microseconds 
+
+Epochs: 1 || Local Duration: 760896 microseconds 
+
+Epochs: 1 || Local Duration: 735393 microseconds 
+
+Epochs: 1 || Local Duration: 756385 microseconds 
+
+Epochs: 1 || Local Duration: 802828 microseconds 
+
+Epochs: 1 || Local Duration: 1360179 microseconds 
+
+Epochs: 1 || Local Duration: 743587 microseconds 
+
+Epochs: 1 || Local Duration: 734210 microseconds 
+
+Epochs: 1 || Local Duration: 764823 microseconds 
+
+Epochs: 1 || Local Duration: 773079 microseconds 
+
+Epochs: 1 || Local Duration: 783812 microseconds 
+
+Epochs: 1 || Local Duration: 792942 microseconds 
+
+Epochs: 1 || Local Duration: 1325823 microseconds 
+
+Epochs: 1 || Local Duration: 727261 microseconds 
+
+Epochs: 1 || Local Duration: 744246 microseconds 
+
+Epochs: 1 || Local Duration: 764262 microseconds 
+
+Epochs: 1 || Local Duration: 748168 microseconds 
+
+Epochs: 1 || Local Duration: 781160 microseconds 
+
+Epochs: 1 || Local Duration: 1338067 microseconds 
+
+Epochs: 1 || Local Duration: 795963 microseconds 
+
+Epochs: 1 || Local Duration: 731750 microseconds 
+
+Epochs: 1 || Local Duration: 738194 microseconds 
+
+Epochs: 1 || Local Duration: 801075 microseconds 
+
+Epochs: 1 || Local Duration: 761102 microseconds 
+
+Epochs: 1 || Local Duration: 769339 microseconds 
+
+Epochs: 1 || Local Duration: 1350711 microseconds 
+
+Epochs: 1 || Local Duration: 754666 microseconds 
+
+Epochs: 1 || Local Duration: 746189 microseconds 
+
+Epochs: 1 || Local Duration: 729112 microseconds 
+
+Epochs: 1 || Local Duration: 781262 microseconds 
+
+Epochs: 1 || Local Duration: 768750 microseconds 
+
+Epochs: 1 || Local Duration: 1352784 microseconds 
+
+Epochs: 1 || Local Duration: 734042 microseconds 
+
+Epochs: 1 || Local Duration: 753789 microseconds 
+
+Epochs: 1 || Local Duration: 748022 microseconds 
+
+Epochs: 1 || Local Duration: 762503 microseconds 
+
+Epochs: 1 || Local Duration: 787492 microseconds 
+
+Epochs: 1 || Local Duration: 1348342 microseconds 
+
+Epochs: 1 || Local Duration: 729201 microseconds 
+
+Epochs: 1 || Local Duration: 720936 microseconds 
+
+Epochs: 1 || Local Duration: 739265 microseconds 
+
+Epochs: 1 || Local Duration: 750773 microseconds 
+
+Epochs: 1 || Local Duration: 763363 microseconds 
+
+Epochs: 1 || Local Duration: 1353994 microseconds 
+
+Epochs: 1 || Local Duration: 784967 microseconds 
+
+Epochs: 1 || Local Duration: 738913 microseconds 
+
+Epochs: 1 || Local Duration: 754433 microseconds 
+
+Epochs: 1 || Local Duration: 784963 microseconds 
+
+Epochs: 1 || Local Duration: 767728 microseconds 
+
+Epochs: 1 || Local Duration: 763953 microseconds 
+
+Epochs: 1 || Local Duration: 1342921 microseconds 
+
+Epochs: 1 || Local Duration: 754776 microseconds 
+
+Epochs: 1 || Local Duration: 740173 microseconds 
+
+Epochs: 1 || Local Duration: 736165 microseconds 
+
+Epochs: 1 || Local Duration: 781731 microseconds 
+
+Epochs: 1 || Local Duration: 772229 microseconds 
+
+Epochs: 1 || Local Duration: 767681 microseconds 
+
+Epochs: 1 || Local Duration: 1341988 microseconds 
+
+Epochs: 1 || Local Duration: 744353 microseconds 
+
+Epochs: 1 || Local Duration: 739910 microseconds 
+
+Epochs: 1 || Local Duration: 730355 microseconds 
+
+Epochs: 1 || Local Duration: 794531 microseconds 
+
+Epochs: 1 || Local Duration: 753973 microseconds 
+
+Epochs: 1 || Local Duration: 1353013 microseconds 
+
+Epochs: 1 || Local Duration: 737511 microseconds 
+
+Epochs: 1 || Local Duration: 750134 microseconds 
+
+Epochs: 1 || Local Duration: 731746 microseconds 
+
+Epochs: 1 || Local Duration: 763674 microseconds 
+
+Epochs: 1 || Local Duration: 786681 microseconds 
+
+Epochs: 1 || Local Duration: 1369213 microseconds 
+
+Epochs: 1 || Local Duration: 730635 microseconds 
+
+Epochs: 1 || Local Duration: 728512 microseconds 
+
+Epochs: 1 || Local Duration: 796107 microseconds 
+
+Epochs: 1 || Local Duration: 763790 microseconds 
+
+Epochs: 1 || Local Duration: 761287 microseconds 
+
+Epochs: 1 || Local Duration: 1336215 microseconds 
+
+Epochs: 1 || Local Duration: 731770 microseconds 
+
+Epochs: 1 || Local Duration: 760984 microseconds 
+
+Epochs: 1 || Local Duration: 729011 microseconds 
+
+Epochs: 1 || Local Duration: 763539 microseconds 
+
+Epochs: 1 || Local Duration: 805179 microseconds 
+
+Epochs: 1 || Local Duration: 768250 microseconds 
+
+Epochs: 1 || Local Duration: 1321473 microseconds 
+
+Epochs: 1 || Local Duration: 728962 microseconds 
+
+Epochs: 1 || Local Duration: 756889 microseconds 
+
+Epochs: 1 || Local Duration: 746106 microseconds 
+
+Epochs: 1 || Local Duration: 766401 microseconds 
+
+Epochs: 1 || Local Duration: 799040 microseconds 
+
+Epochs: 1 || Local Duration: 758359 microseconds 
+
+Epochs: 1 || Local Duration: 1329387 microseconds 
+
+Epochs: 1 || Local Duration: 714740 microseconds 
+
+Epochs: 1 || Local Duration: 758195 microseconds 
+
+Epochs: 1 || Local Duration: 757771 microseconds 
+
+Epochs: 1 || Local Duration: 760123 microseconds 
+
+Epochs: 1 || Local Duration: 1340035 microseconds 
+
+Epochs: 1 || Local Duration: 750072 microseconds 
+
+Epochs: 1 || Local Duration: 772717 microseconds 
+
+Epochs: 1 || Local Duration: 726248 microseconds 
+
+Epochs: 1 || Local Duration: 759550 microseconds 
+
+Epochs: 1 || Local Duration: 805100 microseconds 
+
+Epochs: 1 || Local Duration: 1341001 microseconds 
+
+Epochs: 1 || Local Duration: 727130 microseconds 
+
+Epochs: 1 || Local Duration: 728852 microseconds 
+
+Epochs: 1 || Local Duration: 743702 microseconds 
+
+Epochs: 1 || Local Duration: 762764 microseconds 
+
+Epochs: 1 || Local Duration: 765813 microseconds 
+
+Epochs: 1 || Local Duration: 787838 microseconds 
+
+Epochs: 1 || Local Duration: 1346825 microseconds 
+
+Epochs: 1 || Local Duration: 721290 microseconds 
+
+Epochs: 2 || Local Duration: 1404045 microseconds 
+
+Epochs: 2 || Local Duration: 1421137 microseconds 
+
+Epochs: 2 || Local Duration: 1412742 microseconds 
+
+Epochs: 1 || Local Duration: 761399 microseconds 
+
+Epochs: 1 || Local Duration: 791108 microseconds 
+
+Epochs: 1 || Local Duration: 756017 microseconds 
+
+Epochs: 2 || Local Duration: 2583935 microseconds 
+
+Epochs: 2 || Local Duration: 1421637 microseconds 
+
+Epochs: 2 || Local Duration: 1430031 microseconds 
+
+Epochs: 2 || Local Duration: 1387723 microseconds 
+
+Epochs: 1 || Local Duration: 1381994 microseconds 
+
+Epochs: 1 || Local Duration: 736699 microseconds 
+
+Epochs: 1 || Local Duration: 740025 microseconds 
+
+Epochs: 1 || Local Duration: 726195 microseconds 
+
+Epochs: 2 || Local Duration: 1420857 microseconds 
+
+Epochs: 2 || Local Duration: 1470366 microseconds 
+
+Epochs: 2 || Local Duration: 1420687 microseconds 
+
+Epochs: 1 || Local Duration: 784968 microseconds 
+
+Epochs: 1 || Local Duration: 788109 microseconds 
+
+Epochs: 2 || Local Duration: 2580979 microseconds 
+
+Epochs: 1 || Local Duration: 726920 microseconds 
+
+Epochs: 2 || Local Duration: 1403071 microseconds 
+
+Epochs: 2 || Local Duration: 1446448 microseconds 
+
+Epochs: 1 || Local Duration: 1389393 microseconds 
+
+Epochs: 2 || Local Duration: 1378868 microseconds 
+
+Epochs: 1 || Local Duration: 726350 microseconds 
+
+Epochs: 1 || Local Duration: 756184 microseconds 
+
+Epochs: 1 || Local Duration: 757790 microseconds 
+
+Epochs: 2 || Local Duration: 1433034 microseconds 
+
+Epochs: 2 || Local Duration: 1474004 microseconds 
+
+Epochs: 2 || Local Duration: 1424610 microseconds 
+
+Epochs: 2 || Local Duration: 2581852 microseconds 
+
+Epochs: 1 || Local Duration: 763194 microseconds 
+
+Epochs: 1 || Local Duration: 768621 microseconds 
+
+Epochs: 1 || Local Duration: 726970 microseconds 
+
+Epochs: 1 || Local Duration: 1385204 microseconds 
+
+Epochs: 2 || Local Duration: 1402862 microseconds 
+
+Epochs: 2 || Local Duration: 1424661 microseconds 
+
+Epochs: 2 || Local Duration: 1381572 microseconds 
+
+Epochs: 1 || Local Duration: 759365 microseconds 
+
+Epochs: 1 || Local Duration: 769299 microseconds 
+
+Epochs: 1 || Local Duration: 789878 microseconds 
+
+Epochs: 2 || Local Duration: 1436098 microseconds 
+
+Epochs: 2 || Local Duration: 1423706 microseconds 
+
+Epochs: 2 || Local Duration: 2587952 microseconds 
+
+Epochs: 2 || Local Duration: 1464388 microseconds 
+
+Epochs: 1 || Local Duration: 730786 microseconds 
+
+Epochs: 1 || Local Duration: 744261 microseconds 
+
+Epochs: 1 || Local Duration: 787483 microseconds 
+
+Epochs: 1 || Local Duration: 1373213 microseconds 
+
+Epochs: 2 || Local Duration: 1380594 microseconds 
+
+Epochs: 2 || Local Duration: 1379160 microseconds 
+
+Epochs: 2 || Local Duration: 1442824 microseconds 
+
+Epochs: 1 || Local Duration: 775835 microseconds 
+
+Epochs: 1 || Local Duration: 757418 microseconds 
+
+Epochs: 1 || Local Duration: 791578 microseconds 
+
+Epochs: 2 || Local Duration: 1446435 microseconds 
+
+Epochs: 2 || Local Duration: 2598485 microseconds 
+
+Epochs: 2 || Local Duration: 1377477 microseconds 
+
+Epochs: 2 || Local Duration: 1425833 microseconds 
+
+Epochs: 1 || Local Duration: 773419 microseconds 
+
+Epochs: 1 || Local Duration: 772666 microseconds 
+
+Epochs: 1 || Local Duration: 801218 microseconds 
+
+Epochs: 1 || Local Duration: 1348335 microseconds 
+
+Epochs: 2 || Local Duration: 1390429 microseconds 
+
+Epochs: 2 || Local Duration: 1409739 microseconds 
+
+Epochs: 2 || Local Duration: 1439594 microseconds 
+
+Epochs: 1 || Local Duration: 757708 microseconds 
+
+Epochs: 1 || Local Duration: 748205 microseconds 
+
+Epochs: 1 || Local Duration: 784442 microseconds 
+
+Epochs: 2 || Local Duration: 2594633 microseconds 
+
+Epochs: 2 || Local Duration: 1422379 microseconds 
+
+Epochs: 2 || Local Duration: 1394280 microseconds 
+
+Epochs: 2 || Local Duration: 1433203 microseconds 
+
+Epochs: 1 || Local Duration: 772009 microseconds 
+
+Epochs: 1 || Local Duration: 1365659 microseconds 
+
+Epochs: 1 || Local Duration: 735427 microseconds 
+
+Epochs: 1 || Local Duration: 740428 microseconds 
+
+Epochs: 2 || Local Duration: 1414824 microseconds 
+
+Epochs: 2 || Local Duration: 1410353 microseconds 
+
+Epochs: 2 || Local Duration: 1476642 microseconds 
+
+Epochs: 1 || Local Duration: 763521 microseconds 
+
+Epochs: 1 || Local Duration: 766668 microseconds 
+
+Epochs: 2 || Local Duration: 2578823 microseconds 
+
+Epochs: 1 || Local Duration: 764336 microseconds 
+
+Epochs: 2 || Local Duration: 1384200 microseconds 
+
+Epochs: 2 || Local Duration: 1391111 microseconds 
+
+Epochs: 1 || Local Duration: 1381324 microseconds 
+
+Epochs: 1 || Local Duration: 735208 microseconds 
+
+Epochs: 2 || Local Duration: 1458208 microseconds 
+
+Epochs: 1 || Local Duration: 724569 microseconds 
+
+Epochs: 1 || Local Duration: 788488 microseconds 
+
+Epochs: 2 || Local Duration: 1427723 microseconds 
+
+Epochs: 2 || Local Duration: 1408019 microseconds 
+
+Epochs: 1 || Local Duration: 770654 microseconds 
+
+Epochs: 2 || Local Duration: 1450698 microseconds 
+
+Epochs: 1 || Local Duration: 757418 microseconds 
+
+Epochs: 2 || Local Duration: 2563118 microseconds 
+
+Epochs: 1 || Local Duration: 754727 microseconds 
+
+Epochs: 2 || Local Duration: 1387799 microseconds 
+
+Epochs: 2 || Local Duration: 1389064 microseconds 
+
+Epochs: 1 || Local Duration: 1380017 microseconds 
+
+Epochs: 1 || Local Duration: 733389 microseconds 
+
+Epochs: 2 || Local Duration: 1429342 microseconds 
+
+Epochs: 1 || Local Duration: 743998 microseconds 
+
+Epochs: 1 || Local Duration: 799319 microseconds 
+
+Epochs: 2 || Local Duration: 1435521 microseconds 
+
+Epochs: 2 || Local Duration: 1417235 microseconds 
+
+Epochs: 2 || Local Duration: 2589648 microseconds 
+
+Epochs: 1 || Local Duration: 733677 microseconds 
+
+Epochs: 1 || Local Duration: 720541 microseconds 
+
+Epochs: 2 || Local Duration: 1431975 microseconds 
+
+Epochs: 1 || Local Duration: 796837 microseconds 
+
+Epochs: 1 || Local Duration: 1359678 microseconds 
+
+Epochs: 2 || Local Duration: 1386400 microseconds 
+
+Epochs: 2 || Local Duration: 1392235 microseconds 
+
+Epochs: 1 || Local Duration: 771985 microseconds 
+
+Epochs: 1 || Local Duration: 767130 microseconds 
+
+Epochs: 2 || Local Duration: 1431664 microseconds 
+
+Epochs: 1 || Local Duration: 799575 microseconds 
+
+Epochs: 2 || Local Duration: 1423948 microseconds 
+
+Epochs: 2 || Local Duration: 1409042 microseconds 
+
+Epochs: 2 || Local Duration: 2570789 microseconds 
+
+Epochs: 1 || Local Duration: 752996 microseconds 
+
+Epochs: 1 || Local Duration: 728690 microseconds 
+
+Epochs: 2 || Local Duration: 1436067 microseconds 
+
+Epochs: 1 || Local Duration: 1395509 microseconds 
+
+Epochs: 1 || Local Duration: 762544 microseconds 
+
+Epochs: 2 || Local Duration: 1381781 microseconds 
+
+Epochs: 2 || Local Duration: 1413054 microseconds 
+
+Epochs: 2 || Local Duration: 1473198 microseconds 
+
+Epochs: 2 || Local Duration: 2599191 microseconds 
+
+Epochs: 4 || Local Duration: 2738767 microseconds 
+
+Epochs: 4 || Local Duration: 2759591 microseconds 
+
+Epochs: 1 || Local Duration: 766060 microseconds 
+
+Epochs: 1 || Local Duration: 771322 microseconds 
+
+Epochs: 4 || Local Duration: 2850990 microseconds 
+
+Epochs: 1 || Local Duration: 799039 microseconds 
+
+Epochs: 2 || Local Duration: 1409270 microseconds 
+
+Epochs: 2 || Local Duration: 1403179 microseconds 
+
+Epochs: 2 || Local Duration: 1493212 microseconds 
+
+Epochs: 4 || Local Duration: 5056245 microseconds 
+
+Epochs: 4 || Local Duration: 2726193 microseconds 
+
+Epochs: 4 || Local Duration: 2740074 microseconds 
+
+Epochs: 1 || Local Duration: 761062 microseconds 
+
+Epochs: 1 || Local Duration: 1376680 microseconds 
+
+Epochs: 1 || Local Duration: 737068 microseconds 
+
+Epochs: 4 || Local Duration: 2785096 microseconds 
+
+Epochs: 2 || Local Duration: 1381329 microseconds 
+
+Epochs: 1 || Local Duration: 788194 microseconds 
+
+Epochs: 2 || Local Duration: 1406735 microseconds 
+
+Epochs: 2 || Local Duration: 2628968 microseconds 
+
+Epochs: 2 || Local Duration: 1431988 microseconds 
+
+Epochs: 4 || Local Duration: 2732877 microseconds 
+
+Epochs: 4 || Local Duration: 2754902 microseconds 
+
+Epochs: 1 || Local Duration: 780126 microseconds 
+
+Epochs: 1 || Local Duration: 761877 microseconds 
+
+Epochs: 4 || Local Duration: 2851645 microseconds 
+
+Epochs: 2 || Local Duration: 1406065 microseconds 
+
+Epochs: 2 || Local Duration: 1405683 microseconds 
+
+Epochs: 1 || Local Duration: 783092 microseconds 
+
+Epochs: 4 || Local Duration: 5073300 microseconds 
+
+Epochs: 2 || Local Duration: 1417153 microseconds 
+
+Epochs: 4 || Local Duration: 2714235 microseconds 
+
+Epochs: 4 || Local Duration: 2682519 microseconds 
+
+Epochs: 1 || Local Duration: 1380235 microseconds 
+
+Epochs: 1 || Local Duration: 754432 microseconds 
+
+Epochs: 1 || Local Duration: 732699 microseconds 
+
+Epochs: 4 || Local Duration: 2819402 microseconds 
+
+Epochs: 2 || Local Duration: 1440947 microseconds 
+
+Epochs: 2 || Local Duration: 1414850 microseconds 
+
+Epochs: 1 || Local Duration: 789285 microseconds 
+
+Epochs: 2 || Local Duration: 2575603 microseconds 
+
+Epochs: 2 || Local Duration: 1442502 microseconds 
+
+Epochs: 4 || Local Duration: 2773934 microseconds 
+
+Epochs: 4 || Local Duration: 2709561 microseconds 
+
+Epochs: 1 || Local Duration: 780121 microseconds 
+
+Epochs: 1 || Local Duration: 764578 microseconds 
+
+Epochs: 4 || Local Duration: 2850302 microseconds 
+
+Epochs: 2 || Local Duration: 1428944 microseconds 
+
+Epochs: 2 || Local Duration: 1443123 microseconds 
+
+Epochs: 1 || Local Duration: 784644 microseconds 
+
+Epochs: 4 || Local Duration: 5061963 microseconds 
+
+Epochs: 2 || Local Duration: 1442135 microseconds 
+
+Epochs: 1 || Local Duration: 1396049 microseconds 
+
+Epochs: 4 || Local Duration: 2720087 microseconds 
+
+Epochs: 4 || Local Duration: 2678912 microseconds 
+
+Epochs: 1 || Local Duration: 780559 microseconds 
+
+Epochs: 1 || Local Duration: 767353 microseconds 
+
+Epochs: 2 || Local Duration: 2594339 microseconds 
+
+Epochs: 4 || Local Duration: 2795207 microseconds 
+
+Epochs: 2 || Local Duration: 1384216 microseconds 
+
+Epochs: 2 || Local Duration: 1388211 microseconds 
+
+Epochs: 1 || Local Duration: 790517 microseconds 
+
+Epochs: 2 || Local Duration: 1477828 microseconds 
+
+Epochs: 4 || Local Duration: 2732849 microseconds 
+
+Epochs: 4 || Local Duration: 2788621 microseconds 
+
+Epochs: 1 || Local Duration: 752513 microseconds 
+
+Epochs: 1 || Local Duration: 767541 microseconds 
+
+Epochs: 4 || Local Duration: 5059986 microseconds 
+
+Epochs: 4 || Local Duration: 2820595 microseconds 
+
+Epochs: 2 || Local Duration: 1402045 microseconds 
+
+Epochs: 2 || Local Duration: 1379744 microseconds 
+
+Epochs: 1 || Local Duration: 795371 microseconds 
+
+Epochs: 1 || Local Duration: 1351664 microseconds 
+
+Epochs: 2 || Local Duration: 1440589 microseconds 
+
+Epochs: 4 || Local Duration: 2703038 microseconds 
+
+Epochs: 4 || Local Duration: 2745601 microseconds 
+
+Epochs: 1 || Local Duration: 773357 microseconds 
+
+Epochs: 1 || Local Duration: 768976 microseconds 
+
+Epochs: 2 || Local Duration: 2592380 microseconds 
+
+Epochs: 2 || Local Duration: 1397522 microseconds 
+
+Epochs: 2 || Local Duration: 1410645 microseconds 
+
+Epochs: 4 || Local Duration: 2794945 microseconds 
+
+Epochs: 1 || Local Duration: 798656 microseconds 
+
+Epochs: 2 || Local Duration: 1462838 microseconds 
+
+Epochs: 4 || Local Duration: 2730404 microseconds 
+
+Epochs: 4 || Local Duration: 2769905 microseconds 
+
+Epochs: 1 || Local Duration: 756925 microseconds 
+
+Epochs: 1 || Local Duration: 774611 microseconds 
+
+Epochs: 4 || Local Duration: 5066185 microseconds 
+
+Epochs: 2 || Local Duration: 1392785 microseconds 
+
+Epochs: 2 || Local Duration: 1389273 microseconds 
+
+Epochs: 4 || Local Duration: 2831700 microseconds 
+
+Epochs: 1 || Local Duration: 1371498 microseconds 
+
+Epochs: 1 || Local Duration: 757456 microseconds 
+
+Epochs: 2 || Local Duration: 1486771 microseconds 
+
+Epochs: 4 || Local Duration: 2723169 microseconds 
+
+Epochs: 4 || Local Duration: 2730509 microseconds 
+
+Epochs: 2 || Local Duration: 2605060 microseconds 
+
+Epochs: 4 || Local Duration: 2849267 microseconds 
+
+Epochs: 8 || Local Duration: 5379878 microseconds 
+
+Epochs: 8 || Local Duration: 5377688 microseconds 
+
+Epochs: 4 || Local Duration: 5112816 microseconds 
+
+Epochs: 1 || Local Duration: 743640 microseconds 
+
+Epochs: 1 || Local Duration: 748117 microseconds 
+
+Epochs: 2 || Local Duration: 1422236 microseconds 
+
+Epochs: 2 || Local Duration: 1434175 microseconds 
+
+Epochs: 8 || Local Duration: 5631188 microseconds 
+
+Epochs: 1 || Local Duration: 792680 microseconds 
+
+Epochs: 4 || Local Duration: 2737679 microseconds 
+
+Epochs: 4 || Local Duration: 2777947 microseconds 
+
+Epochs: 2 || Local Duration: 1439946 microseconds 
+
+Epochs: 4 || Local Duration: 2854079 microseconds 
+
+Epochs: 8 || Local Duration: 10023757 microseconds 
+
+Epochs: 8 || Local Duration: 5426466 microseconds 
+
+Epochs: 8 || Local Duration: 5398536 microseconds 
+
+Epochs: 1 || Local Duration: 757578 microseconds 
+
+Epochs: 1 || Local Duration: 778978 microseconds 
+
+Epochs: 1 || Local Duration: 1351562 microseconds 
+
+Epochs: 2 || Local Duration: 1382930 microseconds 
+
+Epochs: 2 || Local Duration: 1391603 microseconds 
+
+Epochs: 8 || Local Duration: 5573399 microseconds 
+
+Epochs: 2 || Local Duration: 2621819 microseconds 
+
+Epochs: 1 || Local Duration: 756052 microseconds 
+
+Epochs: 4 || Local Duration: 2699238 microseconds 
+
+Epochs: 4 || Local Duration: 2740975 microseconds 
+
+Epochs: 2 || Local Duration: 1468937 microseconds 
+
+Epochs: 4 || Local Duration: 2857957 microseconds 
+
+Epochs: 4 || Local Duration: 5108358 microseconds 
+
+Epochs: 8 || Local Duration: 5361508 microseconds 
+
+Epochs: 8 || Local Duration: 5436691 microseconds 
+
+Epochs: 1 || Local Duration: 768525 microseconds 
+
+Epochs: 1 || Local Duration: 772364 microseconds 
+
+Epochs: 2 || Local Duration: 1434825 microseconds 
+
+Epochs: 2 || Local Duration: 1440004 microseconds 
+
+Epochs: 8 || Local Duration: 5630688 microseconds 
+
+Epochs: 1 || Local Duration: 797245 microseconds 
+
+Epochs: 4 || Local Duration: 2771251 microseconds 
+
+Epochs: 4 || Local Duration: 2777260 microseconds 
+
+Epochs: 2 || Local Duration: 1479946 microseconds 
+
+Epochs: 8 || Local Duration: 9989534 microseconds 
+
+Epochs: 4 || Local Duration: 2846678 microseconds 
+
+Epochs: 1 || Local Duration: 1392625 microseconds 
+
+Epochs: 8 || Local Duration: 5347719 microseconds 
+
+Epochs: 8 || Local Duration: 5389167 microseconds 
+
+Epochs: 1 || Local Duration: 772844 microseconds 
+
+Epochs: 1 || Local Duration: 782653 microseconds 
+
+Epochs: 2 || Local Duration: 1438984 microseconds 
+
+Epochs: 2 || Local Duration: 2587242 microseconds 
+
+Epochs: 2 || Local Duration: 1383660 microseconds 
+
+Epochs: 8 || Local Duration: 5567910 microseconds 
+
+Epochs: 4 || Local Duration: 2712069 microseconds 
+
+Epochs: 1 || Local Duration: 794031 microseconds 
+
+Epochs: 4 || Local Duration: 2737855 microseconds 
+
+Epochs: 2 || Local Duration: 1465182 microseconds 
+
+Epochs: 4 || Local Duration: 5099971 microseconds 
+
+Epochs: 4 || Local Duration: 2857327 microseconds 
+
+Epochs: 8 || Local Duration: 5334238 microseconds 
+
+Epochs: 8 || Local Duration: 5374430 microseconds 
+
+Epochs: 1 || Local Duration: 753282 microseconds 
+
+Epochs: 1 || Local Duration: 757520 microseconds 
+
+Epochs: 2 || Local Duration: 1405072 microseconds 
+
+Epochs: 2 || Local Duration: 1429416 microseconds 
+
+Epochs: 8 || Local Duration: 5679301 microseconds 
+
+Epochs: 4 || Local Duration: 2765837 microseconds 
+
+Epochs: 4 || Local Duration: 2773446 microseconds 
+
+Epochs: 8 || Local Duration: 10019640 microseconds 
+
+Epochs: 8 || Local Duration: 5388632 microseconds 
+
+Epochs: 8 || Local Duration: 5383728 microseconds 
+
+Epochs: 16 || Local Duration: 11201491 microseconds 
+
+Epochs: 1 || Local Duration: 813502 microseconds 
+
+Epochs: 2 || Local Duration: 1507163 microseconds 
+
+Epochs: 16 || Local Duration: 10794487 microseconds 
+
+Epochs: 4 || Local Duration: 2880890 microseconds 
+
+Epochs: 16 || Local Duration: 10826046 microseconds 
+
+Epochs: 1 || Local Duration: 772038 microseconds 
+
+Epochs: 1 || Local Duration: 769381 microseconds 
+
+Epochs: 2 || Local Duration: 1441331 microseconds 
+
+Epochs: 2 || Local Duration: 1453023 microseconds 
+
+Epochs: 4 || Local Duration: 2762953 microseconds 
+
+Epochs: 4 || Local Duration: 2784227 microseconds 
+
+Epochs: 8 || Local Duration: 5622529 microseconds 
+
+Epochs: 16 || Local Duration: 19959978 microseconds 
+
+Epochs: 1 || Local Duration: 1394545 microseconds 
+
+Epochs: 2 || Local Duration: 2629588 microseconds 
+
+Epochs: 8 || Local Duration: 5328702 microseconds 
+
+Epochs: 8 || Local Duration: 5384229 microseconds 
+
+Epochs: 4 || Local Duration: 5078842 microseconds 
+
+Epochs: 16 || Local Duration: 11040668 microseconds 
+
+Epochs: 1 || Local Duration: 797349 microseconds 
+
+Epochs: 2 || Local Duration: 1462290 microseconds 
+
+Epochs: 16 || Local Duration: 10744772 microseconds 
+
+Epochs: 16 || Local Duration: 10760576 microseconds 
+
+Epochs: 4 || Local Duration: 2857799 microseconds 
+
+Epochs: 1 || Local Duration: 770488 microseconds 
+
+Epochs: 1 || Local Duration: 773944 microseconds 
+
+Epochs: 2 || Local Duration: 1443807 microseconds 
+
+Epochs: 2 || Local Duration: 1424684 microseconds 
+
+Epochs: 8 || Local Duration: 9959471 microseconds 
+
+Epochs: 4 || Local Duration: 2729951 microseconds 
+
+Epochs: 4 || Local Duration: 2798086 microseconds 
+
+Epochs: 8 || Local Duration: 5632560 microseconds 
+
+Epochs: 8 || Local Duration: 5402187 microseconds 
+
+Epochs: 8 || Local Duration: 5455940 microseconds 
+
+Epochs: 16 || Local Duration: 11209105 microseconds 
+
+Epochs: 1 || Local Duration: 812979 microseconds 
+
+Epochs: 2 || Local Duration: 1495406 microseconds 
+
+Epochs: 16 || Local Duration: 10661735 microseconds 
+
+Epochs: 16 || Local Duration: 10828730 microseconds 
+
+Epochs: 4 || Local Duration: 2897754 microseconds 
+
+Epochs: 16 || Local Duration: 19927373 microseconds 
+
+Epochs: 8 || Local Duration: 5624385 microseconds 
+
+Epochs: 16 || Local Duration: 11238605 microseconds 
+
+Epochs: 32 || Local Duration: 21325670 microseconds 
+
+Epochs: 1 || Local Duration: 761049 microseconds 
+
+Epochs: 32 || Local Duration: 21369206 microseconds 
+
+Epochs: 1 || Local Duration: 765124 microseconds 
+
+Epochs: 2 || Local Duration: 1418007 microseconds 
+
+Epochs: 2 || Local Duration: 1444001 microseconds 
+
+Epochs: 4 || Local Duration: 2738305 microseconds 
+
+Epochs: 4 || Local Duration: 2780815 microseconds 
+
+Epochs: 8 || Local Duration: 5435495 microseconds 
+
+Epochs: 8 || Local Duration: 5457458 microseconds 
+
+Epochs: 32 || Local Duration: 22240500 microseconds 
+
+Epochs: 1 || Local Duration: 799320 microseconds 
+
+Epochs: 16 || Local Duration: 10747310 microseconds 
+
+Epochs: 32 || Local Duration: 39737312 microseconds 
+
+Epochs: 2 || Local Duration: 1447032 microseconds 
+
+Epochs: 16 || Local Duration: 10787312 microseconds 
+
+Epochs: 1 || Local Duration: 1391627 microseconds 
+
+Epochs: 4 || Local Duration: 2865356 microseconds 
+
+Epochs: 2 || Local Duration: 2623860 microseconds 
+
+Epochs: 8 || Local Duration: 5597884 microseconds 
+
+Epochs: 4 || Local Duration: 5118375 microseconds 
+
+Epochs: 8 || Local Duration: 10113264 microseconds 
+
+Epochs: 16 || Local Duration: 11142585 microseconds 
+
+Epochs: 32 || Local Duration: 21020080 microseconds 
+
+Epochs: 32 || Local Duration: 21412816 microseconds 
+
+Epochs: 16 || Local Duration: 19989608 microseconds 
+
+Epochs: 32 || Local Duration: 22237019 microseconds 
+
+Epochs: 64 || Local Duration: 42542825 microseconds 
+
+Epochs: 64 || Local Duration: 42853583 microseconds 
+
+Epochs: 32 || Local Duration: 33459410 microseconds 
+
+Epochs: 64 || Local Duration: 39897987 microseconds 
+
+Epochs: 64 || Local Duration: 45189786 microseconds 
+
+Epochs: 128 || Local Duration: 70550229 microseconds 
+
+Epochs: 128 || Local Duration: 64988629 microseconds 
+
+
+Overall Duration: 450429362 microseconds
+
+real	7m30.611s
+user	0m0.019s
+sys	0m0.017s
+rm -f  m5_ASH.o  m5_SH.o  m5_neural_network.o m5_ASH m5_SH

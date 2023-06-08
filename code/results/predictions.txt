@@ -1,0 +1,3 @@
+Accurate count: 178 
+Total count: 1797 
+Your accuracy is 0.099054 
