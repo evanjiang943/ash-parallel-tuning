@@ -1,4 +1,4 @@
-# CS205 Final Project -- Team 21
+# CS205 Final Project
 
 ## Contributors
 Roy Han, Evan Jiang
