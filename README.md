@@ -1,4 +1,4 @@
-# CS205 Final Project
+# Parallelizing Neural Network Hyperparameter Tuning
 
 ## Contributors
 Roy Han, Evan Jiang
