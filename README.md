@@ -1,7 +1,7 @@
 # Parallelizing Neural Network Hyperparameter Tuning
 
 ## Contributors
-Roy Han, Evan Jiang
+Roy Han and Evan Jiang
 
 ## Overview
 Our project aims to adapt and implement Asynchronous Successive Halving (ASH) to accelerate the search for the best hyperparameter configurations in artificial neural networks (ANNs). Hyperparameters are crucial in determining model performance (e.g. maintaining highest predictive accuracy), and they are foundational to training and/or architecture. Since the process of finding the set of hyperparameters for an ANN is lengthy, time-drawn out, and expensive, our group devised an approach that leverages parallelization techniques using openMP. Through a comparison between our parallelized implementation (ASH) to the sequential baseline of Successive Halving (SH), we show that our project yields results that indicate hyperparameter search speedup while maintaining scalability and productionizability.
